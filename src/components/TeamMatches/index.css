@@ -1,0 +1,43 @@
+.rcb-background {
+  background-image: linear-gradient(to bottom, #a4261d, #1e293b);
+}
+.kkr-background {
+  background-color: #5755a7;
+}
+.srh-background {
+  background-image: linear-gradient(to bottom, #f26d22, #ffffff33);
+}
+.rr-background {
+  background-color: #da237b;
+}
+.csk-background {
+  background-image: linear-gradient(to bottom, #f7db00, #0f172a);
+}
+.dc-background {
+  background-image: linear-gradient(to bottom, #0f172a, #4f5db0);
+}
+.mi-background {
+  background-color: #13418b;
+}
+.kings-background {
+  background-image: linear-gradient(to bottom, #d91c1f, white);
+}
+.teamMatches-bg-container {
+  padding: 20px;
+  color: white;
+}
+.banner-style {
+  width: 90%;
+  margin: 10px;
+}
+.latest-match-container {
+  background-color: #0f172a;
+  padding: 20px;
+  border-radius: 15px;
+  color: white;
+}
+.mach-card-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

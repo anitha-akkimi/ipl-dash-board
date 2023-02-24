@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.latest-match-card {
+  padding: 20px;
+  background-color: #1e293b;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: row;
+  font-family: Bree Serif;
+  color: white;
+}
+.compete-team-logo {
+  width: 30%;
+  height: 30%;
+}

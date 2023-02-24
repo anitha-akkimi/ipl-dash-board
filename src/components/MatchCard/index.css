@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.each-match-card {
+  border-radius: 15px;
+  padding: 15px;
+  background-color: #1e293b;
+  color: white;
+  font-family: Bree Serif;
+  margin: 10px;
+}
+.each-match-logo {
+  height: 30%;
+  width: 30%;
+  margin: 10px;
+}
+.match-status {
+  font-weight: 600;
+  font-size: 28px;
+  color: green;
+}

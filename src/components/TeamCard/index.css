@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.each-teamcard {
+  width: 300px;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: white;
+  border-radius: 15px;
+  background-color: #ffffff33;
+  border: 2px solid white;
+  margin: 10px;
+}
+.team-image-style {
+  height: 30%;
+  width: 30%;
+  margin-right: 10px;
+}
+.team-name {
+  color: white;
+  font-weight: 500;
+  font-size: 22px;
+  font-family: Bree Serif;
+}
+.team-card-container {
+  display: flex;
+  flex-direction: row;
+}
+
+@media (max-width: 768px) {
+  .team-image-style {
+    height: 20%;
+    width: 20%;
+    margin-right: 8px;
+  }
+  .team-name {
+    color: white;
+    font-weight: 500;
+    font-size: 15px;
+    font-family: Bree Serif;
+  }
+}
+@media (max-width: 499px) {
+  .each-teamcard {
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+  }
+}
